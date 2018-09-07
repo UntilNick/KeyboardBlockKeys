@@ -1,0 +1,6 @@
+E:\Project\BlockKeyboardKeys\BlockKeyboardKeys\bin\Debug\BlockKeyboardKeys.exe
+E:\Project\BlockKeyboardKeys\BlockKeyboardKeys\bin\Debug\BlockKeyboardKeys.pdb
+E:\Project\BlockKeyboardKeys\BlockKeyboardKeys\obj\Debug\BlockKeyboardKeys.csprojAssemblyReference.cache
+E:\Project\BlockKeyboardKeys\BlockKeyboardKeys\obj\Debug\BlockKeyboardKeys.csproj.CoreCompileInputs.cache
+E:\Project\BlockKeyboardKeys\BlockKeyboardKeys\obj\Debug\BlockKeyboardKeys.exe
+E:\Project\BlockKeyboardKeys\BlockKeyboardKeys\obj\Debug\BlockKeyboardKeys.pdb
