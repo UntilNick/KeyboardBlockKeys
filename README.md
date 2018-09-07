@@ -12,7 +12,7 @@ P.S: Не блокирует сочитание клавиш.
 
 Program for locking keys on the keyboard!
 
-The list of keys for blocking can be supplemented in List <Keys> downKeys = new List <Keys>
+The list of keys for blocking can be supplemented in `List<Keys> downKeys = new List<Keys>`
 
 P.S: Does not block keyboard shortcuts.
 
