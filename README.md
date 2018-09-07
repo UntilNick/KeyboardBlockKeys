@@ -4,7 +4,7 @@
 
 Список клавиш для блокировки можно дополнять в `List<Keys> downKeys = new List<Keys>`
 
-P.S: Не блокирует сочитание клавиш.
+P.S: Не блокирует сочетании клавиш.
 
 Протестировано на *Windows 10 x64*
 
@@ -14,7 +14,7 @@ Program for locking keys on the keyboard!
 
 The list of keys for blocking can be supplemented in `List<Keys> downKeys = new List<Keys>`
 
-P.S: Does not block keyboard shortcuts.
+P.S: Does not lock the keyboard shortcut
 
 Tested on Windows 10 x64
 
